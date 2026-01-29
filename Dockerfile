@@ -1,1 +1,1 @@
-FROM ghcr.io/andtherya/web-console-py:c45d8b2
+FROM ghcr.io/andtherya/xaygojs:latest
