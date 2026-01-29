@@ -1,1 +1,1 @@
-FROM ghcr.io/eooce/gows:latest
+FROM ghcr.io/peroky/devws:latest
