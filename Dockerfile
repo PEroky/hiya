@@ -1,1 +1,1 @@
-FROM ghcr.io/andtherya/xaygojs:latest
+FROM ghcr.io/andtherya/dcbotjs:latest
