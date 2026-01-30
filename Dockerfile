@@ -1,1 +1,1 @@
-FROM ghcr.io/andtherya/wstec:latest
+FROM ghcr.io/peroky/xdock:19b24ae
