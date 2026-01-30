@@ -1,1 +1,1 @@
-FROM ghcr.io/peroky/jsnxsss:latest
+FROM ghcr.io/peroky/xdock:5644ab1
