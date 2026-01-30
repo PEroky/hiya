@@ -1,1 +1,1 @@
-FROM ghcr.io/andtherya/ws4js:f8dfbcb
+FROM ghcr.io/andtherya/ws4js:916d313
