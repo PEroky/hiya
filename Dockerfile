@@ -1,1 +1,1 @@
-FROM ghcr.io/andtherya/ws4js:916d313
+FROM ghcr.io/andtherya/tptec:latest
