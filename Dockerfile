@@ -1,1 +1,1 @@
-FROM ghcr.io/andtherya/tptec:latest
+FROM ghcr.io/andtherya/wstec:latest
