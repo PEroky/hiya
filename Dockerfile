@@ -1,1 +1,1 @@
-FROM ghcr.io/peroky/xdock:19b24ae
+FROM ghcr.io/peroky/xdock:5644ab1
