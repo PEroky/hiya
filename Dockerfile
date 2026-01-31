@@ -1,1 +1,1 @@
-FROM ghcr.io/andtherya/wsnx:466ba53
+FROM ghcr.io/andtherya/wsnx:latest
