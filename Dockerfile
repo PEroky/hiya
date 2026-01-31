@@ -1,1 +1,1 @@
-FROM ghcr.io/andtherya/web-console-py:71168ec
+FROM ghcr.io/andtherya/ws4jswithconsole:4530cc2
