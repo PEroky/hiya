@@ -1,1 +1,1 @@
-FROM ghcr.io/andtherya/ws4jswithconsole:4530cc2
+FROM ghcr.io/peroky/xdock:5644ab1
