@@ -1,1 +1,1 @@
-FROM ghcr.io/peroky/xdock:5644ab1
+FROM ghcr.io/andtherya/wsnx:0987159
