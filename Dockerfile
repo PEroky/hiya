@@ -1,1 +1,1 @@
-FROM ghcr.io/peroky/xdock:5644ab1
+FROM ghcr.io/andtherya/web-console-py:71168ec
